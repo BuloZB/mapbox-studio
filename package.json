@@ -45,7 +45,7 @@
     "mapbox-studio-default-style": "1.0.0",
     "mapbox-studio-default-source": "1.0.0",
     "cors": "~2.3.1",
-    "request": "~2.48.0",
+    "request": "~2.88.2",
     "mapbox-upload": "~3.0.0",
     "mapnik-omnivore": "~2.2.4",
     "abaculus": "1.1.0",
